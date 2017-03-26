@@ -7,3 +7,12 @@ c:\users\michael\documents\visual studio 2015\Projects\Visual Calculator\Visual 
 c:\users\michael\documents\visual studio 2015\Projects\Visual Calculator\Visual Calculator\obj\Debug\Visual Calculator.csproj.GenerateResource.Cache
 c:\users\michael\documents\visual studio 2015\Projects\Visual Calculator\Visual Calculator\obj\Debug\Visual Calculator.exe
 c:\users\michael\documents\visual studio 2015\Projects\Visual Calculator\Visual Calculator\obj\Debug\Visual Calculator.pdb
+C:\Users\Michael\Source\Repos\Visual-Calculator\Visual Calculator\bin\Debug\Visual Calculator.exe.config
+C:\Users\Michael\Source\Repos\Visual-Calculator\Visual Calculator\obj\Debug\Visual Calculator.exe
+C:\Users\Michael\Source\Repos\Visual-Calculator\Visual Calculator\obj\Debug\Visual Calculator.pdb
+C:\Users\Michael\Source\Repos\Visual-Calculator\Visual Calculator\obj\Debug\Visual Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Source\Repos\Visual-Calculator\Visual Calculator\obj\Debug\Visual_Calculator.Form1.resources
+C:\Users\Michael\Source\Repos\Visual-Calculator\Visual Calculator\obj\Debug\Visual_Calculator.Properties.Resources.resources
+C:\Users\Michael\Source\Repos\Visual-Calculator\Visual Calculator\obj\Debug\Visual Calculator.csproj.GenerateResource.Cache
+C:\Users\Michael\Source\Repos\Visual-Calculator\Visual Calculator\bin\Debug\Visual Calculator.exe
+C:\Users\Michael\Source\Repos\Visual-Calculator\Visual Calculator\bin\Debug\Visual Calculator.pdb
