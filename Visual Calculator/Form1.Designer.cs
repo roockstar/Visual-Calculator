@@ -54,13 +54,15 @@
             // 
             // display
             // 
-            this.display.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.display.BackColor = System.Drawing.SystemColors.Window;
             this.display.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.display.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.display.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.25F);
             this.display.Location = new System.Drawing.Point(43, 36);
             this.display.Name = "display";
-            this.display.Size = new System.Drawing.Size(270, 13);
+            this.display.Size = new System.Drawing.Size(270, 24);
             this.display.TabIndex = 0;
+            this.display.TextChanged += new System.EventHandler(this.display_TextChanged);
             // 
             // numericUpDown1
             // 
@@ -228,7 +230,7 @@
             this.button16.TabIndex = 17;
             this.button16.Text = "C";
             this.button16.UseVisualStyleBackColor = true;
-            this.button16.Click += new System.EventHandler(this.btnWasClicked);
+            this.button16.Click += new System.EventHandler(this.deleteWasClicked);
             // 
             // button17
             // 
@@ -248,7 +250,7 @@
             this.button18.TabIndex = 19;
             this.button18.Text = "=";
             this.button18.UseVisualStyleBackColor = true;
-            this.button18.Click += new System.EventHandler(this.btnWasClicked);
+            this.button18.Click += new System.EventHandler(this.calculateBtn);
             // 
             // button19
             // 
@@ -288,7 +290,7 @@
             this.Controls.Add(this.numericUpDown1);
             this.Controls.Add(this.display);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Visual Calculator";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

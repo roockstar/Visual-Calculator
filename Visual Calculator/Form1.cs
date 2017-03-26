@@ -113,5 +113,10 @@ namespace Visual_Calculator
             }
         }
 
+        private void display_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }
